@@ -1,2 +1,2 @@
 # anbima-feeder
-Fetch financial instruments and its historical series values from Anbima APIs.
+Fetch financial instruments and their historical series values from Anbima APIs.
